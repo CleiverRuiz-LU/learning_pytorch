@@ -3,7 +3,7 @@
 	url = https://github.com/Atcold/NYU-DLSP20.git
 [submodule "udacity_dl"]
 	path = udacity_dl
-	url = https://github.com/udacity/deep-learning-v2-pytorch.git
+	url = https://github.com/udacity/deep-learning-v2-pytorch
 [submodule "pytorch"]
 	path = pytorch
 	url = https://github.com/pytorch/tutorials.git
